@@ -8,9 +8,7 @@ fontsize: 12pt
 header-includes: 
 - \usepackage{float}
 - \usepackage{setspace}
-- \usepackage{ragged2e}
 - \onehalfspacing
-- \justifying
 ---
 \begin{titlepage}
   \newpage
