@@ -1,21 +1,46 @@
 ---
-title: "Diplomacy and Economic Cooperation in Sino-American Relations"
-author: "Laurence-Olivier M. Foisy - 537 002 485"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
 output:
-  word_document: default
-  pdf_document: default
-bibliography: references.json
-csl: "https://www.zotero.org/styles/chicago-author-date"
+  pdf_document:
+    latex_engine: xelatex
+bibliography: bib/references.json
+csl: "https://www.zotero.org/styles/chicago-author-date-fr"
 fontsize: 12pt
-header-includes:
+header-includes: 
+- \usepackage{float}
 - \usepackage{setspace}
-- \usepackage{titling}
-- \pretitle{\begin{center} \includegraphics[width=2in,height=2in]{ul_p.pdf}\LARGE\\}
-- \posttitle{\end{center}}
+- \onehalfspacing
 ---
-\onehalfspacing
-\pagebreak
+\begin{titlepage}
+  \newpage
+  \let\footnotesize\small
+  \let\footnoterule\relax
+  \let \footnote \thanks
+
+  \baselineskip = 1.4\baselineskip
+  \setbox0=\hbox{of the Requirements for the Degree}
+
+  \begin{center}
+    \setcounter{page}{1}
+    \includegraphics[height=20mm,keepaspectratio=true]{figures/logoULaval/ul_p}
+    \null\vfil
+    {\fontsize{16}{14}\selectfont \textbf{\@Diplomacy and Economic Cooperation in Sino-American Relations}}
+    \vfil
+    \textbf{\@Laurence-Olivier M. Foisy} \\
+    537 002 485
+    \vfil
+    Projet de recherche\\POL-8007
+    \vfil
+    Travail présenté à:\\
+    \textbf{\@Erick Duchesne} \\
+    \vfil
+    Departement de science politique\\Faculté des sciences sociales\\Université Laval
+    \vfil
+    \vfil
+    Québec, Canada \\
+    \vfil
+    \copyright \thinspace \@Laurence-Olivier M. Foisy, `r Sys.setlocale("LC_TIME", "fr_FR.UTF-8"); format(Sys.Date(), "%d %B %Y")` \\
+  \end{center}\par
+\end{titlepage}
 # Introduction
 
 <!-- Indiquer dès le départ le but de la recherche. Peut-être aussi utiliser des intertitres? -->
