@@ -129,7 +129,6 @@ As Wendt wrote: "Social theories do not determine the content of our internation
 
 After reviewing these theoretical elements, it is possible to formulate a hypothesis: Shifts in the diplomatic relation between the United States and China will influence their economic cooperation if decision-makers perceive a change in the cost of their economic cooperation. In the same way, an aggravation of their diplomatic relations will not necessarily harm their economic cooperation. It would also be possible for their economic cooperation to improve while their diplomatic relations deteriorate if the people in power believe that the costs related to economic competition outweigh the cost of economic cooperation. It is also possible that shifts in diplomatic relations do not influence economic cooperation. Shedding light on the relationship between these two variables, the Sino-American diplomatic relationship and their economic cooperation, will be the goal of this thesis.
 
-<<<<<<< HEAD:H23/seminaireDeDoctorat/projetRecherche.Rmd
 # Modifications
 
 Expliquer les lacunes de chaque théories:
@@ -142,13 +141,11 @@ Le constructivisme peut expliquer ce que les deux autres théories peinent à ex
 
 
 
-=======
 <!-- Important de faire ressortir l'originalité de la thèse. Comment puis-je me démarquer ? -->
 <!-- Je devrais aussi aborder le concept de fongibilité de la puissance. -->
 <!-- Peut-être important de clarifier qui sont les "scholars" cités? Leur spécialité ? -->
 <!-- Aussi incorporer des petits paragraphes de conclusion qui viennent résumer les différentes parties ? -->
 <!-- Félix écrit: il aurait été bien d’avoir une conclusion qui résume de manière succincte les objectifs du projet de recherche et les principales théories mobilisées pour répondre à la question de recherche. Et ce qu’il vise à identifier précisément. -->
->>>>>>> 92b8dd1c7fd2eb4b907aa1896a48793018d0e837:H23/seminaireDeDoctorat/rmarkdown/projetRecherche.Rmd
 
 \pagebreak
 # Bibliography
