@@ -7,4 +7,3 @@ Un article peut être une étude text as data des observations médiatiques et d
 Un article peut être de comparer l'approfondissement économique des états-unis avec la chine et de la comparer avec d'autres pays. L'hypothèse serait que dû aux tentatives de découplement, l'approfondissement des liens économiques entre les deux pays devrait être moindre qu'avec les autres pays.
 
 Description de l'état des relations diplomatiques selon les pays eux même ou selon les médias. Selon les médias américain, chinois, ou étranger
-
