@@ -83,7 +83,28 @@ Therefore - Solution to the problem
 Personne va se rappeler ce que j'ai dit mais ils faut qu'ils se rappellent qu'il y a un gros problème
 
 
+
+
+# explication du projet en 30 secondes
 # AND
+En ce moment si on se fie aux médias, on pourrait croire que les États-Unis et la Chine sont présentement en guerre froide:
+
+Les articles de nouvelles qui parlent de la nouvelle guerre froide pullulent sur le web. Si nous sommes maintenant en guerre froide, qu'en est-il des relations économiques? Durant la guerre froide, les liens économiques entre les États-Unis et l'union soviétique étaient très faible mais aujourd'hui les États-Unis sont interdependent économiquement, peut-on vraiment parler de guerre froide?
+
+Ma question est donc: Comment les changements diplomatiques entre la Chine et les États-Unis affectent-ils leurs relations économiques?
+
+En premier on doit définir diplomatique.
+
+La définition de Hans Morgenthau:
+> La méthode d'établissement de la paix à travers les accomodements
+
+Selon lui la diplomatie doit remplir 4 objectifs:
+    1. Déterminer ses objectifs en fonction des pouvoirs actuellement et potentiellement disponible
+    2. Déterminer les objectifs des autres états en fonction des pouvoirs actuellement et potentiellement disponible
+    3. Déterminer la compatibilité de ses propres objectifs avec celui des autres états
+    4. Employer les moyens nécessaires pour atteindre ses objectifs
+
+Les États-Unis se sont retrouvé dans un état où ils n'avaient plus besoin de diplomatie. Leur suprématie était suffisante. Par contre, cette époque est révolu et le manque de diplomatie est devenu un problème.
 
 ## Deux plus grandes puissances
 La Chine et les États sont les deux plus grandes puissances économiques et militaire sur la planète en ce moment. Pour vous donner un ordre d'idée j'ai ici quelques graphiques qui démontrent à quel point les deux pays se démarquent.
@@ -112,6 +133,15 @@ S'agissait-il de la fin d'une ère d'amabilité? C'est ici que nous en sommes. A
 ## L'élection de trump n'a pas aidé
 L'élection de Trump n'a pas aidé parce qu'il a pu recadrer les relations sino-américaine comme une de compétition donc c'est devenu difficile pour les politiciens américains de parler de la Chine positivement sans se faire accuser de toute sorte de choses.
 
-
 # Question de recherche
-Comment expliquer 
+Comment expliquer la stabilité apparente des relations économiques entre la Chine et les États-Unis malgré la dégradation apparente de leur relation diplomatique?
+
+Le réalisme parle de pouvoir relatif et de rationalisme. N'est-ce pas irrationel pour les États-Unis de continuer à faire affaire avec la Chine? Oui les États-Unis ont intérêt à poursuivre leur relation économique avec la Chine mais ce serait insoutenable à long terme. La Chine est en train de devenir une menace pour les États-Unis et les États-Unis ne peuvent pas se permettre de laisser la Chine devenir une menace.
+
+Pour les institutionalistes qui voient le pouvoir de façon absolue, ce n'est pas incompréhensible que les deux pays continuent de commercer et de colaborer sur divers projets économiques. Cependant, les institutionalistes expliquent mal le fait que leur relation économique ne semble pas affecté par leurs tensions politiques.
+
+
+Hypothèse?
+
+
+
