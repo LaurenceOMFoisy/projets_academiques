@@ -12,7 +12,8 @@ ggplot(data_ch_us, aes(year, exportsUsaToChina, color = "#c73a3a")) +
   scale_y_continuous(labels = scales::label_number(scale = 1e-9,
                                                    suffix = "G",
                                                    prefix = "$")) +
-  geom_vline(xintercept = c(2001, 2008, 2019), linetype = "dashed") +
+  geom_vline(xintercept = c(2001, 2008, 2019),
+             linetype = "dashed", alpha = 0.5, color = "#000000") +
   labs(x = "Année", y = "Exportations",
        color = "",
        title = "Commerce entre les États-Unis et la Chine de 1995 à 2021") +
