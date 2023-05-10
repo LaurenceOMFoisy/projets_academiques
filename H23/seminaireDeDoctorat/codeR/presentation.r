@@ -3,7 +3,7 @@ library(dplyr)
 library(wbstats)
 library(scales)
 
-data_ch_us <- read.csv("H23/seminaireDeDoctorat/codeR/data/usaExportsChina.csv")
+data_ch_us <- read.csv("codeR/data/usaExportsChina.csv")
 
 ggplot(data_ch_us, aes(year, exportsUsaToChina, color = "#c73a3a")) +
   geom_line(size = 1.5) +
@@ -39,5 +39,38 @@ ggplot(data_ch_us, aes(year, exportsUsaToChina, color = "#c73a3a")) +
                  label = "Crise de la Covid-19",
                  vjust = 2, size = 5, color = "black", fontface = "bold")
 ggsave(filename = "exportGraph.png",
-       path = "H23/seminaireDeDoctorat/codeR/graphiquesFaitsEnR",
-       units = "in", width = 13.333, height = 7.5)
+       path = "H23/seminaireDeDoctorat/codeR/graphiquesFaitsEnR")
+
+ggplot(data_ch_us, aes(year, exportsUsaToChina, color = "#c73a3a")) +
+  geom_line(size = 1.5) +
+  geom_line(aes(y = importsUsaFromChina, color = "#0084ff"), size = 1.5) +
+  theme_classic() +
+  scale_y_continuous(labels = scales::label_number(scale = 1e-9,
+                                                   suffix = "B",
+                                                   prefix = "$")) +
+  geom_vline(xintercept = c(2001, 2008, 2019), linetype = "dashed") +
+  labs(x = "Year", y = "Exports",
+       color = "",
+       title = "Sino-American Trade Relation Between 1995 and 2021") +
+  scale_color_manual(name = "Exports",
+                     values = c("#c73a3a", "#0084ff"),
+                     labels = c("Chinese exports to the USA",
+                                "American exports to China")) +
+  theme(axis.title.x = element_text(size = 14),
+        axis.title.y = element_text(size = 14),
+        legend.title = element_text(size = 12),
+        legend.text = element_text(size = 11),
+        legend.position = "bottom",
+        legend.direction = "horizontal",
+        legend.box = "horizontal",
+        legend.margin = margin(5, 5, 5, 5)) +
+        annotate("text", x = 1999, y = 180000000000,
+                 label = "China's entry into the WTO",
+                 vjust = 2, size = 5, color = "black", fontface = "bold") +
+        annotate("text", x = 2006, y = 350000000000,
+                 label = "2008 Global Financial Crisis",
+                 vjust = 2, size = 5, color = "black", fontface = "bold") +
+        annotate("text", x = 2017, y = 550000000000,
+                 label = "Covid-19 Crisis",
+                 vjust = 2, size = 5, color = "black", fontface = "bold")
+ggsave(filename = "codeR/graphiquesFaitsEnR/exportGraphEn.pdf")

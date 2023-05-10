@@ -1,0 +1,87 @@
+# Introduction
+
+Bonjour à tous, mon projet s'intitule maintenant Dégradation diplomatique et stabilité économique entre la Chine et les États-Unis
+
+# Le problème
+
+Depuis plusieurs années on parle d'un refroidissement des relations entre la Chine et les États-Unis. La liste des sujets chaud s'aggrandit.
+
+- L'internement des ouigoûrs au Xinjiang
+- La loi sur la sécurité nationale à Hong Kong
+- La guerre commerciale
+- La pandémie de COVID-19
+- Le support des états-unis à Taïwan
+
+À première vue, la situation est très tendu entre les deux pays. Tellement qu'on parle maintenant d'une nouvelle guerre froide. Dans les nouvelle, il est maintenant commum d'entendre parler de la guerre froide 2.0. 
+
+Voici quelques exemples de titre qui représentent bien la situation:
+
+**Montrer les diapositives**
+
+En 2020, les États-Unis ont déclaré qu'ils voyaient maintenant la relation qu'ils avaient avec la Chine comme une relation de compétition. Le directeur du FBI a ajouté que la Chine était la plus grande menace pour la vitalité économique des États-Unis.
+
+Par contre, surprenament, si on regarde un tableau des échanges commerciaux entre les deux pays, on voit qu'après un petite chute du au COVID, il n'ont jamais été aussi élevé qu'aujourd'hui.
+
+Si on se fiait à leur relation politique, il serait raisonnable de croire que les échanges commerciaux entre les deux pays seraient en chute libre. Mais ce n'est pas le cas. Pourquoi?
+
+**Changer diapositive**
+
+# La question
+
+Comment expliquer la stabilité apparente des relations économiques entre la Chine est les États-Unis malgré la dégradation de leur relation diplomatique?
+
+# Théorie
+
+Comment certaine des théories des relations internationales approche le problème?
+
+## Le réalisme
+
+Pour les réalistes, les relations internationales sont un jeu de puissance, cette puissance est avant tout matérielle et relative. 
+Matérielle car elle est mesurable, on peut la quantifier: Nombre de porte avion, nombre de soldats, nombre de bombe nucléaire, etc.
+Relative car elle est toujours en comparaison avec les autres acteurs. Si on a 10 porte avion et que les autres en ont 20, on est moins puissant que les autres.
+
+Deux écoles de pensées se démarquent dans le réalisme: le réalisme classique et le réalisme structurel.
+
+Le réalisme structurel prétend que la structure du système international est anarchique et qu'il n'y a pas d'autorité supérieur pour faire respecter les règles. Les acteurs sont donc dans un état de nature et doivent se défendre par eux même. Ce qui les pousse à maximiser leur puissance relative pour se protéger des autres, ce qui provoque le dilemme de sécurité.
+
+Le réalisme structurel voit la relation économique entre la Chine et les États-Unis comme une façon de poursuivre leur intérêt national mais n'offre pas vraiment de cadre analytique pour expliquer la stabilité économique entre les deux pays.
+
+Le réalisme classique, ce n'est pas la structure du système qui cause conflit mais la nature humaine. Pour ces réaliste, les humains sont égoïstes et cherchent à accomplir leur intéret personnel. Cette poursuite de l'intérêt personnel pourrait expliquer pourquoi les deux pays continuent de commercer mais la plus grosse lacune des réalistes est qu'ils ne prennent pas en compte les intérêts des acteurs non-étatiques qui, dans la relation entre les États-Unis et la Chine semblent être un important moteur de croissance.
+
+Le réalisme peine aussi à expliquer pourquoi les deux pays se sont volontairement impliqué dans une relation d'interdépendance économique. Si le pouvoir est vraiment relatif, il n'est pas rationel de se lier à un autre pays qui pourrait devenir plus puissant que nous.
+
+## Le libéralisme néo-insitutionnel
+
+Keohane et Nye dans "Power and Interdependence" offre une excellente piste de solution. 
+
+Ils disent que les gouvernements vont souvent se plaindre de la perte d'autonomie causé par l'interdépendence mais que tant qu'il y a de la demande politique domestique pour une meilleure économie, les coûts sur la société de détruire les relations économiques internationales sont plus grands que les bénéfices de l'autonomie. Ils vont donc permettre à l'interdépendance économique de croître et, encore plus à contre-coeur, mais inexorablement, ils vont être attiré à coopérer dans la construction de nouveaux régimes internationaux en créant des réponses politiques intégrées. 
+
+Ce simple paragraphe pourrait être la solution au problème mais dans le cas des États-Unis et de la Chine, les deux pays ne semblent pas porté à coopérer pour la construction de nouveaux régimes. Les néo-institutionnalistes expliquent aussi mal la façon dont les acteurs non-étatique parviennent à poursuivre leur intéret malgré une relation politique qui leur est défavorable.
+
+Keohane et Nye disent aussi que les gouvernements n'hésitent pas à sacrifier l'intérêt économique pour poursuivre leur intérêt politique. Ce qui semble être le cas dans la relation entre les États-Unis et la Chine. Pourquoi alors les deux pays continuent de commercer?
+
+## Le constructivisme
+
+Le constructivisme est une théorie un peut plus récente que les deux autres qui explique les relations internationales comme étant un processus de socialisation entre les acteurs internationaux. N'importe qui peut être un acteur international, un état, une ONG, une entreprise, un PDG, un activiste, le voisin d'un activiste, etc. Pour un constructiviste, tout est inter-subjectif, c'est à dire que tout est le résultat d'une interaction entre deux ou plusieurs acteurs. Le constructivisme, parce qu'il permet l'inclusion d'une plus grande variété d'acteur est plus apte à expliquer la façon dont les acteurs non-étatiques parviennent à poursuivre leur intérêt malgré une relation politique qui leur est défavorable.
+
+
+Le constructivisme reconnaît l'existence des acteurs du réseau d'affaire et de l'influence qu'ils peuvent avoir sur la coopération économique entre la chine et les États-Unis. 
+
+Le constructivisme reconnait aussi l'importance du contexte dans chaque situation.
+
+Dans le cas de la Chine et les États-Unis on peut parler d'un contexte économique néo-libérale où les acteurs économiques sont libres de poursuivre leur intérêt.
+
+Je vois pas vraiment le constructivisme comme une théorie venant faire front aux deux autres grandes théorie mais plus comme une façon de les complémenter. Le constructivisme est capable de comprendre que les politiciens Chinois et américains sont majoritairement réaliste donc vont agir en accord avec les prédicats de la théorie mais le constructivisme reconnaît le role des institutions et de la capacité qu'elles ont à faciliter la coopération.
+
+## Hypothèse
+
+La force et la solidité du réseau d’affaire entre les États-Unis et la Chine permet à leur relation économique de continuer de se développer malgré la croissance des tensions politiques.
+
+## Contribution
+
+Une étude comme ça peut contribuer à l'analyse nuancée des relations entre la Chine et les États-Unis en tentant de les comprendre sous un angle différent. Non pas comme deux grand méchants qui s'affrontent mais comme deux systèmes politiques fonctionnels, compatible, dans lequel des individus travaillant pour leur intérêts personnel et pour l'intérêts de leur famille, entreprise, pays, etc, se rencontre chaque jour et participent à établir un réseau d'affaire solide et stable permettant à plusieurs de s'enrichir.
+
+David Shambaugh, un sinologue constructiviste remarque les observateurs de longue date peuvent remarquer qu'il y a toujours une vague constante de changement de perception mutuelle entre la Chine et les États-Unis, un genre de cycle d'amour-haine et qu'au final la relation n'est jamais aussi terrible ou aussi belle qu'on le croit. C'est en étant le plus neutre possible et en faisait preuve de diligence et de nuance qu'on est capable de nuancer la relation entre les deux pays
+
+
+Governments often complain about the loss of autonomy caused by interdependence, but as long as there is domestic political demand for a better economy, the costs to society of destroying international economic relationships are greater than the benefits of autonomy. They will therefore allow economic interdependence to grow and, even more reluctantly, but inexorably, they will be drawn to cooperate in building new international regimes by creating integrated political responses.
