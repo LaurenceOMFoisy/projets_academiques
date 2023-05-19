@@ -21,7 +21,7 @@ header-includes:
     \setcounter{page}{1}
     \includegraphics[height=20mm,keepaspectratio=true]{figures/logoULaval/ul_p}
     \null\vfil
-    {\fontsize{16}{14}\selectfont \textbf{\@La diplomatie en politique comparée}}
+    {\fontsize{16}{14}\selectfont \textbf{\@La diplomatie dans les relations politiques internationales en contexte de transition de puissance}}
     \vfil
     \textbf{\@Laurence-Olivier M. Foisy} \\
     537 002 485
@@ -64,76 +64,67 @@ body {
 }
 </style>
 # Bibliographie
-1. `r capture.output(print(biblio["alley00"]))`
+1. `r capture.output(print(biblio["acharya_etal19"]))` 
 
-
-2. `r capture.output(print(biblio["berridge_james01"]))`
-
+2. `r capture.output(print(biblio["allison17"]))`
+Allison mène une étude comparative sur les transitions de pouvoir entre les puissances établies et les puissances montante. Il 
 
 3. `r capture.output(print(biblio["berridge15"]))`
 
-
 4. `r capture.output(print(biblio["byrne15"]))`
-
 
 5. `r capture.output(print(biblio["gilboa00"]))`
 
-
 6. `r capture.output(print(biblio["gill07"]))`
 
+7. `r capture.output(print(biblio["grzymala-busse16"]))`
 
-7. `r capture.output(print(biblio["hocking_melissen15"]))`
+8. `r capture.output(print(biblio["hocking_melissen15"]))`
 
+9. `r capture.output(print(biblio["jervis78"]))`
 
-8. `r capture.output(print(biblio["hughes00"]))`
+10. `r capture.output(print(biblio["johnston13"]))`
+Johnston, à l'aide d'une 
 
+11. `r capture.output(print(biblio["jonsson_hall05"]))`
 
-9. `r capture.output(print(biblio["jonsson_hall05"]))`
+12. `r capture.output(print(biblio["katzenstein12"]))`
 
-
-10. `r capture.output(print(biblio["katzenstein12"]))`
-
-
-11. `r capture.output(print(biblio["keohane84"]))`
-
-
-12. `r capture.output(print(biblio["keohane_nye12"]))`
+13. `r capture.output(print(biblio["keohane_nye12"]))`
 
 
-13. `r capture.output(print(biblio["mainwaring92"]))`
 
+14. `r capture.output(print(biblio["luckhurst18a"]))`
+Dans cet ouvrage, Luckhurst utilise une approche constructiviste qualitative pour observer la façon dont les réformes des institutions de Bretton Woods ont contribué à l'augmentation de l'autorité des états en développement. Il croit que la crise financière de 2008 a contribué à réduire l'autorité cognitive des pays du G7/8, souvent associés aux consensus de washington, et a permis aux pays émergents de prendre une place plus importante dans les relations internationales en augmentant leur influence cognitive à travers l'utilisation du G20 comme plateforme de diffusion de leurs intérêts.
 
-14. `r capture.output(print(biblio["mckibben13"]))`
+15. `r capture.output(print(biblio["mckibben13"]))`
 
-
-15. `r capture.output(print(biblio["mead15"]))`
-
-
-16. `r capture.output(print(biblio["mitzen13"]))`
-
+16. `r capture.output(print(biblio["mearsheimer14"]))`
+Ouvrage de référence sur le néo-réalisme structurel. 
 
 17. `r capture.output(print(biblio["morgenthau_thompson93"]))`
-
+Ouvrage de référence sur le réalisme classique. Morgenthau offre une définition de la diplomatie qui vient s'insérer dans une vision réaliste classique des relations internationales. Selon lui, dans un contexte d'anarchie internationale où les États cherchent à assurer leur propre sécurité et à travailler à la poursuite de leur intérêts, la diplomatie peut servir d'outil à appaiser les tensions et à trouver des compromis. Il décrit la diplomatie comme l"instrument principal de la paix par accomodation.
 
 18. `r capture.output(print(biblio["nye90"]))`
 
+19. `r capture.output(print(biblio["schultz01"]))`
 
-19. `r capture.output(print(biblio["palm86"]))`
+20. `r capture.output(print(biblio["shambaugh_etal14"]))`
 
+21. `r capture.output(print(biblio["snow_etal09"]))`
 
-20. `r capture.output(print(biblio["rasmusen13"]))`
+22. `r capture.output(print(biblio["waltz79"]))`
+Realisme structurel defensif
 
+23. `r capture.output(print(biblio["weldon06"]))`
 
-21. `r capture.output(print(biblio["ruggie93"]))`
-
-
-22. `r capture.output(print(biblio["schultz01"]))`
-
-
-23. `r capture.output(print(biblio["snow_etal09"]))`
-
-
-24. `r capture.output(print(biblio["waltz79"]))`
-
+24. `r capture.output(print(biblio["wendt99"]))`
+Constructivisme social
 
 25. `r capture.output(print(biblio["yoshimatsu21"]))`
+
+# Introduction
+# Éléments importants
+# Limites de la littérature
+# Contributions pertinentes
+# Références supplémentaires
