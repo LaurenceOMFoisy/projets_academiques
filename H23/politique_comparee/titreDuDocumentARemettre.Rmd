@@ -73,9 +73,9 @@ Allison mène une étude comparative sur les transitions de pouvoir entre les pu
 
 4. `r capture.output(print(biblio["byrne15"]))`
 
-5. `r capture.output(print(biblio["gilboa00"]))`
+5. `r capture.output(print(biblio["derian95"]))`
 
-6. `r capture.output(print(biblio["gill07"]))`
+6. `r capture.output(print(biblio["gilboa00"]))`
 
 7. `r capture.output(print(biblio["grzymala-busse16"]))`
 
@@ -84,18 +84,19 @@ Allison mène une étude comparative sur les transitions de pouvoir entre les pu
 9. `r capture.output(print(biblio["jervis78"]))`
 
 10. `r capture.output(print(biblio["johnston13"]))`
-Johnston, à l'aide d'une 
+Johnston, à l'aide d'une méthode 
 
 11. `r capture.output(print(biblio["jonsson_hall05"]))`
+Jonsson et Hall tentent dans ce livre d'analyser l'essence de la diplomatie. Ils débutent leur ouvrage en remarquant que la diplomatie est un concept qui a été peu étudié par les chercheurs en relations internationales et que la plupart des études sur le sujet se sont concentrées sur les pratiques diplomatiques. Ils s'inspirent de l'école anglaise pour proposer une conception "top-down" de la diplomatie. Ils décrivent leur théorie comme relationaliste et processuelle. Voire la diplomatie comme un processus dynamique de communication, de représentation et de reproduction de l'ordre international. Il terminent par établir la diplomatie comme un fin équilibre entre universalisme et particularisme, entre les intérêts de l'état et les intérêts de la communauté internationale.
 
-12. `r capture.output(print(biblio["katzenstein12"]))`
+12. `r capture.output(print(biblio["keohane_nye12"]))`
+Power and Interdependence présente une théorie néo-institutionelle des relations internationales basée sur la notion d'interdépendence complexe. Les auteurs soutiennent, à l'instar des théories réalistes, que les États ne sont plus les seuls acteurs importants dans le système internationale. De nombreux autres acteurs comme les multinationales et les ONG ont également une influence significative sur la politique internationale. Celle-ci est donc façonnée par des relations de pouvoir multidimensionnelles et des interactions complexes. La diplomatie traditionnelle doit évoluer pour reconnaître cette interdépendance croissante et s'adapter à un environnement mondial caractérisé par des défis transnationaux, nécessitant des solutions coopératives et des mécanismes de gouvernance mondiale.
 
-13. `r capture.output(print(biblio["keohane_nye12"]))`
-
-
+13. `r capture.output(print(biblio["kissinger94"]))`
+Diplomacy de Henry Kissinger est un ouvrage fréquemment cité dans la littérature traitant de diplomatie. Kissinger y présente une histoire de la diplomatie occidentale depuis la paix de Westphalie. Il y décrit les différentes écoles de pensée en relations internationales et les différentes approches de la diplomatie. Il y présente également sa vision de la diplomatie et de la politique étrangère américaine. Kissinger est un auteur important pour comprendre la diplomatie américaine et la diplomatie occidentale en général.
 
 14. `r capture.output(print(biblio["luckhurst18a"]))`
-Dans cet ouvrage, Luckhurst utilise une approche constructiviste qualitative pour observer la façon dont les réformes des institutions de Bretton Woods ont contribué à l'augmentation de l'autorité des états en développement. Il croit que la crise financière de 2008 a contribué à réduire l'autorité cognitive des pays du G7/8, souvent associés aux consensus de washington, et a permis aux pays émergents de prendre une place plus importante dans les relations internationales en augmentant leur influence cognitive à travers l'utilisation du G20 comme plateforme de diffusion de leurs intérêts.
+Dans cet ouvrage, Luckhurst utilise une approche constructiviste qualitative pour observer la façon dont les réformes des institutions de Bretton Woods ont contribué à l'augmentation de l'autorité des états en développement. Il croit que la crise financière de 2008 a eu comme effet de réduire l'autorité cognitive des pays du G7/8, souvent associés aux consensus de washington, et a permis aux pays émergents de prendre une place plus importante dans les relations internationales en augmentant leur influence à travers l'utilisation du G20 comme plateforme de diffusion de leurs intérêts. Les relations entre les états en développement et les états développé se fait donc de plus en plus sur un pied d'égalité.
 
 15. `r capture.output(print(biblio["mckibben13"]))`
 
