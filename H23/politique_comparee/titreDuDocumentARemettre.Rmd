@@ -1,0 +1,139 @@
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+bibliography: bib/references.json
+csl: "https://www.zotero.org/styles/chicago-author-date-fr"
+fontsize: 12pt
+header-includes:
+- \usepackage{setspace}
+- \singlespacing
+---
+\begin{titlepage}
+  \newpage
+  \let\footnotesize\small
+  \let\footnoterule\relax
+  \let \footnote \thanks
+
+  \baselineskip = 1.4\baselineskip
+
+  \begin{center}
+    \setcounter{page}{1}
+    \includegraphics[height=20mm,keepaspectratio=true]{figures/logoULaval/ul_p}
+    \null\vfil
+    {\fontsize{16}{14}\selectfont \textbf{\@La diplomatie en politique comparée}}
+    \vfil
+    \textbf{\@Laurence-Olivier M. Foisy} \\
+    537 002 485
+    \vfil
+    Revue de littérature\\POL-7047
+    \vfil
+    Travail présenté à:\\
+    \textbf{\@Marie Brossier} \\
+    \vfil
+    Département de science politique\\Faculté des sciences sociales\\Université Laval
+    \vfil
+    \vfil
+    Québec, Canada \\
+    \vfil
+    \copyright \thinspace \@Laurence-Olivier M. Foisy, `r Sys.setlocale("LC_TIME", "fr_FR.UTF-8"); format(Sys.Date(), "%d %B %Y")` \\
+  \end{center}\par
+\end{titlepage}
+
+<!-- L'étudiant.e doit produire une revue de littérature sur un sujet validé par le professeur. Le thème doit
+être proposé par l'étudiant (au plus tard lors de la séance du 31 janvier). L'exercice se divisera en
+deux parties. Il faudra d'abord fournir une bibliographie exhaustive de 25-35 titres que vous
+commenterez (voir exemple). Il vous faudra ensuite produire un texte qui réponde aux questions
+suivantes en mobilisant cette littérature commentées :
+1. Quels sont les éléments (théories, modèles, constats, etc.) les plus importants à retenir dans la
+littérature sur le sujet en question?
+2. Quelles sont les limites et les failles dans cette littérature? Quels auteurs offrent les contributions
+les plus pertinentes?
+Le texte qui accompagne la bibliographie commentée doit faire quatre pages (sans la bibliographie à
+ajouter en fin de document), interligne simple, justifié à gauche et à droite en Times New Roman 12.
+Si une ou plusieurs de ces conditions ne sont pas respectées lors de la remise, une pénalité d'un
+point pas éléments manquants sera imposée. La bibliographie exhaustive est essentielle et à réaliser
+bien en amont pour avoir eu le temps de lire les textes et de les assimiler. Je serai extrêmement
+vigilante aux fautes d'orthographe. -->
+```{r, echo=FALSE}
+biblio <- bibtex::read.bib("bib/bib_projet.bib")
+```
+<style>
+body {
+  text-align: justify;
+}
+</style>
+# Bibliographie
+1. `r capture.output(print(biblio["alley00"]))`
+
+
+2. `r capture.output(print(biblio["berridge_james01"]))`
+
+
+3. `r capture.output(print(biblio["berridge15"]))`
+
+
+4. `r capture.output(print(biblio["byrne15"]))`
+
+
+5. `r capture.output(print(biblio["gilboa00"]))`
+
+
+6. `r capture.output(print(biblio["gill07"]))`
+
+
+7. `r capture.output(print(biblio["hocking_melissen15"]))`
+
+
+8. `r capture.output(print(biblio["hughes00"]))`
+
+
+9. `r capture.output(print(biblio["jonsson_hall05"]))`
+
+
+10. `r capture.output(print(biblio["katzenstein12"]))`
+
+
+11. `r capture.output(print(biblio["keohane84"]))`
+
+
+12. `r capture.output(print(biblio["keohane_nye12"]))`
+
+
+13. `r capture.output(print(biblio["mainwaring92"]))`
+
+
+14. `r capture.output(print(biblio["mckibben13"]))`
+
+
+15. `r capture.output(print(biblio["mead15"]))`
+
+
+16. `r capture.output(print(biblio["mitzen13"]))`
+
+
+17. `r capture.output(print(biblio["morgenthau_thompson93"]))`
+
+
+18. `r capture.output(print(biblio["nye90"]))`
+
+
+19. `r capture.output(print(biblio["palm86"]))`
+
+
+20. `r capture.output(print(biblio["rasmusen13"]))`
+
+
+21. `r capture.output(print(biblio["ruggie93"]))`
+
+
+22. `r capture.output(print(biblio["schultz01"]))`
+
+
+23. `r capture.output(print(biblio["snow_etal09"]))`
+
+
+24. `r capture.output(print(biblio["waltz79"]))`
+
+
+25. `r capture.output(print(biblio["yoshimatsu21"]))`

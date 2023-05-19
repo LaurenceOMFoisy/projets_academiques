@@ -5,7 +5,7 @@ output:
 bibliography: bib/references.json
 csl: "https://www.zotero.org/styles/chicago-author-date-fr"
 fontsize: 12pt
-header-includes: 
+header-includes:
 - \usepackage{float}
 - \usepackage{setspace}
 - \onehalfspacing
@@ -30,8 +30,8 @@ header-includes:
     \vfil
     Projet de recherche\\POL-8007
     \vfil
-    Travail présenté à:\\
-    \textbf{\@Erick Duchesne} \\
+    Travail présenté \\
+    \textbf{\@Érick Duchesne} \\
     \vfil
     Département de science politique\\Faculté des sciences sociales\\Université Laval
     \vfil
@@ -103,7 +103,7 @@ Additionally, Wendt, a constructivist scholar, believes there are four "Master V
 # Theory
 Wendt believed that there might have been more variables than four and that understanding how those variables worked to form a larger model was a theoretical problem in itself.[@wendtSocialTheoryInternational1999, p. 365] This research will be using his theory and the theory of those who have built upon it to understand how the economic relationship between China and the United States relates to their political relationship. 
 
-Constructivism is different than realism or liberalism. It strays away from positivism and focuses on the role of ideas and norms in shaping international relations. It emphasizes the role of a multitude of actors and the intersubjectivity between them. Fierke wrote: "Constructivists embrace an intersubjective ontology, emphasizing norms, social agents, and structures, and the mutual constitution of identity."[@dunneInternationalRelationsTheories2013, p. 193] Each state is composed of individuals with their agency and identity, acting according to what they believe is in their interest. What matters here is that their actual interest may differ from their perceived interest. Indeed, people will tend to act according to their perception of reality, not reality itself. This perception is shaped by their identity, which is itself shaped by their social surroundings which are shaped by the individuals which it comprises. This is what constructivists call intersubjectivity. 
+Constructivism is different than realism or liberalism. It strays away from positivism and focuses on the role of ideas and norms in shaping international relations. It emphasizes the role of a multitude of actors, states, NGOs, individuals, and the intersubjectivity between them. Fierke wrote: "Constructivists embrace an intersubjective ontology, emphasizing norms, social agents, and structures, and the mutual constitution of identity."[@dunneInternationalRelationsTheories2013, p. 193] Each state is composed of individuals with their agency and identity, acting according to what they believe is in their interest. What matters here is that their actual interest may differ from their perceived interest. Indeed, people will tend to act according to their perception of reality, not reality itself. This perception is shaped by their identity, which is itself shaped by their social surroundings which are shaped by the individuals which it comprises. This is what constructivists call intersubjectivity. 
 
 Actors' behaviours are bound by the norms and the social structure they are subjected to or have been influenced by, coming from their family, employer, religious group, society, or other forms of social groups. In the words of Jonathan Luckhurst: "Agency is context-dependent and social, existing in complex flows of interactions and processes; individuals are reflexive, but not isolated from the constitutive effects of practices and shifts in background knowledge."[@luckhurstGovernanceNetworksShaping2019, p. 3] Individuals, who in the pursuit of their self-interest, wish to alter the economic, political, or social norms and structure, can then form groups with other individuals with similar interests. These groups can get bigger and gain more importance or can be influenced by bigger groups. Through what Johnston calls micro-processes — "[…] the susceptibility of structures to minor perturbations, contingencies, nonlinearity, and path dependence set in motion by the conscious reflection and action of agents of change"[@johnstonSocialStatesChina2008, p. xiv:xv] — these groups can influence actions of states. According to Johnston, this socialization process should matter a lot when studying the behaviour of states.[@johnstonSocialStatesChina2008, p. xv] 
 
@@ -115,8 +115,7 @@ As Wendt wrote: "Social theories do not determine the content of our internation
 # Bibliography
 <div id="refs"></div>
 
-\newpage
 # Appendix
-```{r echo=FALSE, fig.pos="H", fig.align="center", out.width="80%", fig.cap="Sino-American Trade Between 1995 and 2021 \\newline Source: Census.gov (2023)"}
+```{r echo=FALSE, fig.pos="H", out.width="80%", fig.cap="Sino-American Trade Between 1995 and 2021 Source: Census.gov (2023)"}
 knitr::include_graphics("figures/_GraphiquesPourRmd/exportGraphEn.pdf")
 ```
