@@ -65,6 +65,7 @@ body {
 </style>
 # Bibliographie
 1. `r capture.output(print(biblio["acharya_etal19"]))` 
+Acharya et al abordent les différentes visions des relations internationales qui existent en dehors des approches traditionelles propagées par les États-Unis. Ils établissent le concept de leadership dans les relations internationals et le distinguent du concept de pouvoir. Pour eux, un État n'a pas besoin d'être puissant pour avoir du leadership.
 
 2. `r capture.output(print(biblio["allison17"]))`
 Allison mène une étude comparative sur les transitions de pouvoir entre les puissances établies et les puissances montante. Il 
