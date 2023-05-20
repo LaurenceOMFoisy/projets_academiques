@@ -21,7 +21,7 @@ header-includes:
     \setcounter{page}{1}
     \includegraphics[height=20mm,keepaspectratio=true]{figures/logoULaval/ul_p}
     \null\vfil
-    {\fontsize{16}{14}\selectfont \textbf{\@La diplomatie dans les relations politiques internationales}}
+    {\fontsize{16}{14}\selectfont \textbf{\@Diplomatie et relations politiques internationales}}
     \vfil
     \textbf{\@Laurence-Olivier M. Foisy} \\
     537 002 485
