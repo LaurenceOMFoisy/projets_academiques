@@ -21,7 +21,7 @@ header-includes:
     \setcounter{page}{1}
     \includegraphics[height=20mm,keepaspectratio=true]{figures/logoULaval/ul_p}
     \null\vfil
-    {\fontsize{16}{14}\selectfont \textbf{\@La diplomatie dans les relations politiques internationales en contexte de transition de puissance}}
+    {\fontsize{16}{14}\selectfont \textbf{\@La diplomatie dans les relations politiques internationales}}
     \vfil
     \textbf{\@Laurence-Olivier M. Foisy} \\
     537 002 485
@@ -68,13 +68,15 @@ body {
 Acharya et al abordent les différentes visions des relations internationales qui existent en dehors des approches traditionelles propagées par les États-Unis. Ils établissent le concept de leadership dans les relations internationals et le distinguent du concept de pouvoir. Pour eux, un État n'a pas besoin d'être puissant pour avoir du leadership.
 
 2. `r capture.output(print(biblio["allison17"]))`
-Allison mène une étude comparative sur les transitions de pouvoir entre les puissances établies et les puissances montante. Il 
+Allison dans ce livre approfondie sa théorie du piège de thucydide qui fait référence au dilemme de sécurité auquel font face les États dominants lorsqu'un nouvel acteur émerge et menace la position d'un autre acteur dans le système international. Il propose une série de 12 pistes de solution pour éviter que le piège de thucydide ne se produise entre les États-Unis et la Chine en analysant les situations similaires du passé. Il croit, entre autre, que l'interdependence économique peut agir comme un frein à la guerre entre les deux pays en augmentant le coût d'un conflit.
 
 3. `r capture.output(print(biblio["berridge15"]))`
 
 4. `r capture.output(print(biblio["byrne15"]))`
 
 5. `r capture.output(print(biblio["derian95"]))`
+
+20. `r capture.output(print(biblio["duffey09"]))`
 
 6. `r capture.output(print(biblio["gilboa00"]))`
 
@@ -85,7 +87,7 @@ Allison mène une étude comparative sur les transitions de pouvoir entre les pu
 9. `r capture.output(print(biblio["jervis78"]))`
 
 10. `r capture.output(print(biblio["johnston13"]))`
-Johnston, à l'aide d'une méthode 
+How New and Assertive is China's New Assertiveness est un article phare des études Sino-Américaine. Johnston, adoptant une posture constructiviste, y démontre que le manque de rigeur et de nuance des médias, des analystes, des politiciens et des chercheurs, a mené à une interprétation erronée de la politique étrangère chinoise qui s'est répandue comme étant la vérité. Il démontre que malgré le discours narratif commun comme quoi la Chine serait plus assertive depuis la crise économique de 2008, il n'y a pas de preuve empirique qui démontre que la Chine a changé sa politique étrangère. Il déplore que les chercheurs ont tendance à faire outre de la continuité et de surestimer l'importance du changement. 
 
 11. `r capture.output(print(biblio["jonsson_hall05"]))`
 Jonsson et Hall tentent dans ce livre d'analyser l'essence de la diplomatie. Ils débutent leur ouvrage en remarquant que la diplomatie est un concept qui a été peu étudié par les chercheurs en relations internationales et que la plupart des études sur le sujet se sont concentrées sur les pratiques diplomatiques. Ils s'inspirent de l'école anglaise pour proposer une conception "top-down" de la diplomatie. Ils décrivent leur théorie comme relationaliste et processuelle. Voire la diplomatie comme un processus dynamique de communication, de représentation et de reproduction de l'ordre international. Il terminent par établir la diplomatie comme un fin équilibre entre universalisme et particularisme, entre les intérêts de l'état et les intérêts de la communauté internationale.
@@ -99,34 +101,37 @@ Diplomacy de Henry Kissinger est un ouvrage fréquemment cité dans la littérat
 14. `r capture.output(print(biblio["luckhurst18a"]))`
 Dans cet ouvrage, Luckhurst utilise une approche constructiviste qualitative pour observer la façon dont les réformes des institutions de Bretton Woods ont contribué à l'augmentation de l'autorité des états en développement. Il croit que la crise financière de 2008 a eu comme effet de réduire l'autorité cognitive des pays du G7/8, souvent associés aux consensus de washington, et a permis aux pays émergents de prendre une place plus importante dans les relations internationales en augmentant leur influence à travers l'utilisation du G20 comme plateforme de diffusion de leurs intérêts. Les relations entre les états en développement et les états développé se fait donc de plus en plus sur un pied d'égalité.
 
-15. `r capture.output(print(biblio["mckibben13"]))`
+15. `r capture.output(print(biblio["maoz_russett93"]))`
+Maoz et Russet présentent dans cet ouvrage une théorie de la paix démocratique. Ils démontrent à l'aide de modèles de régressions multinomiales que la démocratie est un facteur significatif négatif dans les situations de prévalence ou d'escalade des conflits. Une explication plausible offerte par les auteurs serait que puisque le processus d'enclenchement des guerres est plus long dans les démocratie, les acteurs diplomatiques ont plus de temps pour trouver des solutions pacifiques aux conflits.  
 
 16. `r capture.output(print(biblio["mearsheimer14"]))`
-Ouvrage de référence sur le néo-réalisme structurel. 
+Mearsheimer offre une conception structurel du paradigme réalisme des relations internationales qu'il nomme le réalisme offensif. Selon lui, l'anarchie internationale et la quête de sécurité des états les pousse à être en compétition constante pour assurer leur survie. Pour un État, la meilleure forme de défense est l'offense. De cette façon, la puissance militaire est l'outil de calcul ultime du pouvoir d'un état et celle-ci doit toujours être perçu de façon relative aux autres. Dans sa vision du système, la diplomatie peut servir à assurer la sécurité d'un État en lui permettant de négocier des alliances et des traités qui lui permettront de se protéger de ses ennemis mais elle peut également être utilisé comme outil de tromperie. Pour cette raison, les États restent méfiants et la diplomatie ne peut être utilisé que pour des objectifs limités.
 
 17. `r capture.output(print(biblio["morgenthau_thompson93"]))`
 Ouvrage de référence sur le réalisme classique. Morgenthau offre une définition de la diplomatie qui vient s'insérer dans une vision réaliste classique des relations internationales. Selon lui, dans un contexte d'anarchie internationale où les États cherchent à assurer leur propre sécurité et à travailler à la poursuite de leur intérêts, la diplomatie peut servir d'outil à appaiser les tensions et à trouver des compromis. Il décrit la diplomatie comme l"instrument principal de la paix par accomodation.
 
-18. `r capture.output(print(biblio["nye90"]))`
+18. `r capture.output(print(biblio["nye08"]))`
+Joseph S. Nye Jr. traite du changement de paradigme du pouvoir. Autrefois efficace, le "hard power" peine aujourd'hui à s'imposer dans un monde où les acteurs non-étatiques sont de plus en plus importants. Il propose donc une nouvelle forme de pouvoir, le "soft power", qui repose sur la capacité d'un acteur à influencer les autres par la persuasion et l'attraction plutôt que par la coercition. Il croit que de savoir jongler avec le "hard power" et le "soft power" est ce qui constitue le "smart power" dont l'outil principal est la "smart diplomacy". Exercer la "smart diplomacy" requiert une connaissance avancée des milieux dans laquelle elle est exercée.
 
 19. `r capture.output(print(biblio["schultz01"]))`
+Schultz cherche a comprendre l'influence des politiques domestiques sur les évènements internationales. Il pose la question: Comment les institutions politiques domestiques affectent la façon dont les États agissent lors de crises internationales? Il bâti sur une théorie de l'incertitude pour expliquer pourquoi les États décident d'entrer en conflit. En partant du constat les guerres sont couteuse pour tous les partis et qu'il y donc des incitatifs à préconiser les méthodes pacifiques de résolution de conflits pour minimiser les coûts, la raison pour laquelle les États décident d'entrer en conflit peut donc être expliqué par les incertitudes sur les intentions et les capacités des autres acteurs ainsi que sur la diffusion asymétrique de l'information. De cette façon, il explique que ce n'est pas la présence ou non de démocratie mais la façon dont l'information est diffusée qui influence l'usage de méthodes coercitives ou pacifiques pour résoudre les conflits.
 
-20. `r capture.output(print(biblio["shambaugh_etal14"]))`
+21. `r capture.output(print(biblio["snow09"]))`
 
-21. `r capture.output(print(biblio["snow_etal09"]))`
-
-22. `r capture.output(print(biblio["waltz79"]))`
-Realisme structurel defensif
+22. `r capture.output(print(biblio["waltz00"]))`
 
 23. `r capture.output(print(biblio["weldon06"]))`
 
-24. `r capture.output(print(biblio["wendt99"]))`
-Constructivisme social
+24. `r capture.output(print(biblio["wendt92"]))`
 
 25. `r capture.output(print(biblio["yoshimatsu21"]))`
 
 # Introduction
 # Éléments importants
+Diffusion de l'information selon Schultz qui touche aussi Johnston.
 # Limites de la littérature
+
+La démocratie est interchangeable avec politique internationale alors que ce ne devrait pas être le cas. Il s'agit de deux concepts différents.
+
 # Contributions pertinentes
 # Références supplémentaires
