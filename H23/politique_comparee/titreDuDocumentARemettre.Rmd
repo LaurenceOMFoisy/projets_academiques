@@ -170,13 +170,13 @@ body {
 
 La diplomatie et la politique internationale sont souvent utilisés de façon interchangeable par les chercheurs en relations internationales alors qu'il s'agit pourtant de deux concept distincts. Jönsson et Hall se désolent que malgré l'importance globale de la diplomatie, elle génère très peu d'intérêt chez les chercheurs et fait l'objet de peu d'études. [@jonsson_hall05, p. 1] 
 
-Cette revue de littérature à propos de la diplomatie a donc pour objectif de compiler certain des écrits les plus importants sur le sujet et de les analyser afin de dégager les éléments importants de la diplomatie et de la politique internationale. 
-
-La première section fera l'état des définitions de la diplomatie. Elle s'efforcera de distinguer la diplomatie de la politique internationale et de traiter de la façon dont elle est abordée par les différentes théories des relations internationales. 
-
-La deuxième section tentera de couvrir les failles de la littérature actuelle, notamment la façon dont les acteurs sont abordé et les limites de certaines théories face à la mondialisation et l'augmentation du nombre d'acteurs dans le système internationale.
+Cette revue de littérature a donc pour objectif de compiler certain des écrits les plus importants sur le sujet et de les analyser afin de dégager les éléments importants de la diplomatie et de la politique internationale. La première section fera l'état des définitions de la diplomatie. Elle s'efforcera de distinguer la diplomatie de la politique internationale et de traiter de la façon dont elle est abordée par les différentes théories des relations internationales. La deuxième section tentera de couvrir les failles de la littérature actuelle, notamment la façon dont les acteurs sont abordé et les limites de certaines théories face à la mondialisation et l'augmentation du nombre d'acteurs dans le système internationale.
 
 # Éléments importants
+
+## Définitions
+
+Malgré le fait que l'usage du terme diplomatie soit peu souvent défini dans la littérature, certains auteurs en ont fait leur sujet d'étude. Un des ouvrage principal sur le sujet est Diplomacy de @kissinger94.
 
 Définir la diplomatie: Morgenthau: Outil de la politique étrangère. Art du compromis. Contexte réaliste.
 Berridge: Activité politique quand bien executé, un ingrédient important du pouvoir. Son but est de permettre aux états d'assurer leur intérêts sans avoir à recourrir à la force. L'activité principale d'un diplomate est la négociation.
