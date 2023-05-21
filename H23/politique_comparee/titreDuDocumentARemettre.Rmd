@@ -49,6 +49,7 @@ suivantes en mobilisant cette littérature commentées :
 littérature sur le sujet en question?
 2. Quelles sont les limites et les failles dans cette littérature? Quels auteurs offrent les contributions
 les plus pertinentes?
+
 Le texte qui accompagne la bibliographie commentée doit faire quatre pages (sans la bibliographie à
 ajouter en fin de document), interligne simple, justifié à gauche et à droite en Times New Roman 12.
 Si une ou plusieurs de ces conditions ne sont pas respectées lors de la remise, une pénalité d'un
@@ -164,7 +165,16 @@ body {
 
 > Ce livre adopte une approche empirique descriptive pour analyser les relations diplomatiques asiatiques du Japon. L'auteur utilise une multitude de théories des relations internationales, le réalisme, le libéralisme et le constructivisme, pour expliquer les actions du Japon et les situer dans leur contexte. Il se penche sur cinq enjeux qu'il juge important dans l'évaluation de la diplomatie japonaise. Les relations commerciales, le développement des infrastructures, les disputes territoriales, le partage de l'espace et les politiques de coopération sous l'administration de Shinzo Abe. 
 
+\newpage
 # Introduction
+
+La diplomatie et la politique internationale sont souvent utilisés de façon interchangeable par les chercheurs en relations internationales alors qu'il s'agit pourtant de deux concept distincts. Jönsson et Hall se désolent que malgré l'importance globale de la diplomatie, elle génère très peu d'intérêt chez les chercheurs et fait l'objet de peu d'études. [@jonsson_hall05, p. 1] 
+
+Cette revue de littérature à propos de la diplomatie a donc comme objectif de compiler certain des écrits les plus importants sur le sujet et de les analyser afin de dégager les éléments importants de la diplomatie et de la politique internationale. 
+
+La première section tentera de faire l'états des définitions de la diplomatie, de les dinstinguer de la politique internationale et de traiter de la façon dont elle est abordée par les différentes théories des relations internationales. 
+
+La deuxième section servira a établir les failles de la littérature actuelle, notamment la façon dont les acteurs sont abordé et les limites de certaines théories face à la mondialisation et l'augmentation du nombre d'acteurs dans le système internationale.
 # Éléments importants
 
 Définir la diplomatie: Morgenthau: Outil de la politique étrangère. Art du compromis. Contexte réaliste.
@@ -181,11 +191,10 @@ Diffusion de l'information selon Schultz qui touche aussi Johnston.
 
 Duffey et snow parlent de P2P ou de G2P. Déclin du G2G. Le P2P ou G2P c'est de la public diplomacy qui gagne en popularité contrairement à la diplomatie traditionelle. (Gilboa)
 
-# Limites de la littérature
-
+# Limites et failles de la littérature
 La diplomatie est souvent traité de façon interchangeable avec politique internationale alors que ce ne devrait pas être le cas. Il s'agit de deux concepts différents.
 
 Peu d'auteurs abordent les effets des technologies de communication sur l'interventionisme en relation internationale. C'est recent depuis les élections américaines de 2016 que le role des médias sociaux dans le controle externe des élections est devenu un sujet d'actualité. Il y a donc peu de littérature sur le sujet.
 
-# Contributions pertinentes
+
 # Références supplémentaires
