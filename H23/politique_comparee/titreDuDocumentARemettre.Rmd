@@ -168,19 +168,30 @@ body {
 \newpage
 # Introduction
 
+La forme moderne de la diplomatie a émergé des guerres entre cité-états italiennes à la fin du XVe siècle. 
+
+Les origines de la diplomatie remontent aux relations entre les "Grands Rois" du Proche-Orient dans l'Antiquité, mais sa forme moderne a émergé à la fin du XVe siècle en Italie. Les cités-états italiennes étaient confrontées à des invasions répétées, ce qui nécessitait une diplomatie continue et moins ostentatoire. Cette période a vu la naissance de l'ambassade résidente, où un citoyen de l'État représentait ses intérêts dans un autre État. Le système italien a ensuite évolué vers le système français, qui est devenu la base du système diplomatique bilatéral moderne. Au XXe siècle, la diplomatie ouverte et les conférences ont été intégrées au réseau existant de communication bilatérale. Malgré les défis posés par des approches alternatives telles que l'anti-diplomatie, la diplomatie a perduré et s'est développée en raison d'un équilibre des pouvoirs, d'intérêts mutuels urgents, d'une communication internationale efficace et d'une tolérance culturelle. Le passage mentionne également que les ministères des affaires étrangères jouent un rôle important dans la définition de la politique étrangère d'un État et la supervision des relations diplomatiques. Le livre est divisé en trois parties : l'art de la négociation, les canaux des relations diplomatiques en temps normal et les moyens alternatifs de mener la diplomatie en période anormale.
+
+
 La diplomatie et la politique internationale sont souvent utilisés de façon interchangeable par les chercheurs en relations internationales alors qu'il s'agit pourtant de deux concept distincts. Jönsson et Hall se désolent que malgré l'importance globale de la diplomatie, elle génère très peu d'intérêt chez les chercheurs et fait l'objet de peu d'études. [@jonsson_hall05, p. 1] 
 
 Cette revue de littérature a donc pour objectif de compiler certain des écrits les plus importants sur le sujet et de les analyser afin de dégager les éléments importants de la diplomatie et de la politique internationale. La première section fera l'état des définitions de la diplomatie. Elle s'efforcera de distinguer la diplomatie de la politique internationale et de traiter de la façon dont elle est abordée par les différentes théories des relations internationales. La deuxième section tentera de couvrir les failles de la littérature actuelle, notamment la façon dont les acteurs sont abordé et les limites de certaines théories face à la mondialisation et l'augmentation du nombre d'acteurs dans le système internationale.
 
 # Éléments importants
 
-## Définitions
+L'usage du terme diplomatie est très répendu mais souvent peu défini dans la littérature en relations internationales. @kissinger94 dans son livre nommé Diplomatie, sans la définir, l'emploi de façon presque interchangeable avec « politique étrangère ». 
+Heureusement, certains auteurs ont pris soin de bien définir le terme, facilitant ainsi son usage. Dans Politics Among Nations publié en 1948, Morgenthau affirme que la diplomatie est l'instrument politique permettant aux États vivants dans l'anarchie internationale de poursuivre leurs intérêts sans avoir à recourir à la force. [@morgenthau_thompson93, p. 175] Selon lui, la diplomatie doit assurer quatre tâches. Déterminer les objectifs nationales en fonction du pouvoir à la disposition de l'État, évaluer les objectifs des autres États et leurs moyens pour les accomplir, déterminer la compatibilité des intérêts de l'États avec ceux des autres et enfin, employer les moyens nécessaires pour atteindre les objectifs de l'État. [@morgenthau_thompson93, p. 175] Pour Morgenthau, la diplomatie c'est aussi l'art du compromis et de la négociation. Sa définition s'imbrique dans la littérature réaliste dans une vision de l'État comme acteur rationnel qui cherche à maximiser sa puissance et sa sécurité. Elle comporte toutefois une dimension de compréhension de l'environement international et des autres acteurs. 
 
-Malgré le fait que l'usage du terme diplomatie soit peu souvent défini dans la littérature, certains auteurs en ont fait leur sujet d'étude. Un des ouvrage principal sur le sujet est Diplomacy de @kissinger94.
+Jönsson et Hall croient que la diplomatie est 
+
+
+
+Le rôle de la compréhension avancée de son environement est mis de l'avant dans les analyses de @nye08, p. 107 et @schultz01, p. 3. où l'assymétrie de l'information permet à certains États plus informés de prendre des décisions qui les favorise contrairement aux États moins informés.
+
+@nye08, p. 95 pousse le concept jusqu'à parler de diplomatie publique.
 
 Définir la diplomatie: Morgenthau: Outil de la politique étrangère. Art du compromis. Contexte réaliste.
 Berridge: Activité politique quand bien executé, un ingrédient important du pouvoir. Son but est de permettre aux états d'assurer leur intérêts sans avoir à recourrir à la force. L'activité principale d'un diplomate est la négociation.
-
 
 Jonson Hall disent que la diplomatie est sous-étudié dans les relations internatinales alors qu'elle est constament utilisé sans se faire définir.
 
@@ -197,5 +208,4 @@ La diplomatie est souvent traité de façon interchangeable avec politique inter
 
 Peu d'auteurs abordent les effets des technologies de communication sur l'interventionisme en relation internationale. C'est recent depuis les élections américaines de 2016 que le role des médias sociaux dans le controle externe des élections est devenu un sujet d'actualité. Il y a donc peu de littérature sur le sujet.
 
-
-# Références supplémentaires
+# Références utilisées
